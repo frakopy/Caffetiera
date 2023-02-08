@@ -2,6 +2,14 @@
 
 Caffetiera is a web application designed for a company that offers gourmet coffee and bakery products. With this application, customers can easily browse and purchase a variety of delicious coffee blends and baked goods.
 
+## Tech Stack
+- DJANGO
+- MSQL
+- Bootstrap
+- HTML
+- CSS
+- JavaScript
+
 ## Features
 - User-friendly interface that makes it easy to navigate and purchase products
 - A variety of coffee blends and baked goods to choose from
